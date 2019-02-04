@@ -1,6 +1,6 @@
 <package>
   <name>contact_monitor</name>
-  <version>1.0.0</version>
+  <version>1.1.0</version>
   <description>
 	  Monitors collisions in gazebo by checking (gazebo) topic /gazebo/default/physics/contacts"
     and then republishes into ROS the collision timestamp.
@@ -23,6 +23,7 @@
   <build_depend>roscpp</build_depend>
   <build_depend>gazebo8</build_depend>
   <build_depend>std_msgs</build_depend>
+  <build_depend>gazebo8_msgs</build_depend>
 
   <!-- Dependencies needed after this package is compiled. -->
   <run_depend>roscpp</run_depend>
