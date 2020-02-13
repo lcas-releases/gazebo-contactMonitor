@@ -2,6 +2,14 @@
 Changelog for package contact_monitor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.2.1 (2020-02-13)
+------------------
+* typo (`#4 <https://github.com/LCAS/gazebo-contactMonitor/issues/4>`_)
+  * typo
+  * gazebo_ros
+* proper flags for gazebo
+* Contributors: Gautham P Das, Marc Hanheide
+
 1.2.0 (2020-02-13)
 ------------------
 * Merge pull request `#3 <https://github.com/LCAS/gazebo-contactMonitor/issues/3>`_ from gpdas/melodic-devel
