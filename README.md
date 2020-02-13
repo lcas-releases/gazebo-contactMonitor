@@ -1,3 +1,26 @@
+## gazebo_contact_monitor (melodic) - 1.2.1-1
+
+The packages in the `gazebo_contact_monitor` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -y --no-web -t melodic -r melodic gazebo_contact_monitor` on `Thu, 13 Feb 2020 17:21:03 -0000`
+
+The `contact_monitor` package was released.
+
+Version of package(s) in repository `gazebo_contact_monitor`:
+
+- upstream repository: https://github.com/LCAS/gazebo-contactMonitor.git
+- release repository: https://github.com/lcas-releases/gazebo-contactMonitor.git
+- rosdistro version: `1.2.0-1`
+- old version: `1.2.0-1`
+- new version: `1.2.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.1`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.18.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## gazebo_contact_monitor (melodic) - 1.2.0-1
 
 The packages in the `gazebo_contact_monitor` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -r melodic -t melodic -n gazebo_contact_monitor` on `Thu, 13 Feb 2020 13:55:22 -0000`
